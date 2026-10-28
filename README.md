@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores which drivers are most likely to accept a mobile coupon. The data comes from the UCI Machine Learning Repository and contains **12,684 driving scenarios**. Each row describes a driver, trip context, and five coupon types. Then we have the target variable, `Y`, which is `1` when the driver accepts the coupon (right away or later before coupon expires), or '1' when the driver does not want the coupon.
+This project explores which drivers are most likely to accept a mobile coupon. The data comes from the UCI Machine Learning Repository and contains **12,684 driving scenarios**, you can look at the dataset here: [coupons.csv](data/coupons.csv). Each row describes a driver, trip context, and five coupon types. Then we have the target variable, `Y`, which is `1` when the driver accepts the coupon (right away or later before coupon expires), or '1' when the driver does not want the coupon.
 
 The full analysis is in the Jupyter notebook: [`prompt.ipynb`](prompt.ipynb)
 
@@ -41,11 +41,11 @@ Some additional notes were that gender doesn't have play a strong influence, whi
 ### Actionable items
 
 
-> **1. Schedule coffee offers around 10AM–2PM.** Late-morning and early afternoon strongly outperform the other times. Shift coffee promotions this window for higher acceptance rates.
+**1. Schedule coffee offers around 10AM–2PM.** Late-morning and early afternoon strongly outperform the other times. Shift coffee promotions this window for higher acceptance rates.
 
-> **2. Use one-day expiration for Coffee House coupons.** One-day offers are accepted at **15% more**  for two-hour offers, giving more flexibility 
+**2. Use one-day expiration for Coffee House coupons.** One-day offers are accepted at **15% more**  for two-hour offers, giving more flexibility 
 
-> **3. Target younger drivers and selected occupations when demographic targeting is available.** Students, healthcare, and blue collar drivers that are younger show higher acceptance, but do not rely on gender as that wasn't a useful demographic.
+**3. Target younger drivers and selected occupations when demographic targeting is available.** Students, healthcare, and blue collar drivers that are younger show higher acceptance, but do not rely on gender as that wasn't a useful demographic.
 
 ### Next steps and recommendations
 
