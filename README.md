@@ -41,11 +41,11 @@ Some additional notes were that gender doesn't have play a strong influence, whi
 ### Actionable items
 
 
-**1. Schedule coffee offers around 10AM–2PM.** Late-morning and early afternoon strongly outperform the other times. Shift coffee promotions this window for higher acceptance rates.
+1. **Schedule coffee offers around 10AM–2PM.** Late-morning and early afternoon strongly outperform the other times. Shift coffee promotions this window for higher acceptance rates.
 
-**2. Use one-day expiration for Coffee House coupons.** One-day offers are accepted at **15% more**  for two-hour offers, giving more flexibility 
+2. **Use one-day expiration for Coffee House coupons.** One-day offers are accepted at **15% more**  for two-hour offers, giving more flexibility 
 
-**3. Target younger drivers and selected occupations when demographic targeting is available.** Students, healthcare, and blue collar drivers that are younger show higher acceptance, but do not rely on gender as that wasn't a useful demographic.
+3. **Target younger drivers and selected occupations when demographic targeting is available.** Students, healthcare, and blue collar drivers that are younger show higher acceptance, but do not rely on gender as that wasn't a useful demographic.
 
 ### Next steps and recommendations
 
